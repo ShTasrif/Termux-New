@@ -1,6 +1,6 @@
 # Termux-New 
-pkg install git 
-pkg install python 
-git clone https://github.com/ShTasrif/Termux-New
-cd Termux-New 
-python new.py
+1. pkg install git 
+2. pkg install python 
+3. git clone https://github.com/ShTasrif/Termux-New
+4. cd Termux-New 
+5. python new.py
